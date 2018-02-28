@@ -1,9 +1,9 @@
-# cpp-video-library
 # C++ Video Library
 A video library made in C++ using file handling. Features include playing videos, adding videos, and deleting videos.
 
 # Set Up:
-- Change the path for media player on <b>line 72</b> of video_library.cpp
+- Change the path for media player on <b>line 72</b> of <b>video_library.cpp</b>
+- Files for lists will be automatically generated in the includes/data/ folder.
 
 # Features:
 - Playing videos
